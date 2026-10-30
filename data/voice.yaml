@@ -1,0 +1,240 @@
+# voice.yaml - How Anvil writes. This is YOUR voice.
+# Not a salesperson. Not a LinkedIn bro. You.
+
+voice_type: "introvert_builder"
+
+identity:
+  core: "I build things. I use AI as a tool. Here's proof."
+  honest_about:
+    - "I use Claude to help implement what I design"
+    - "I don't memorize syntax"
+    - "I'm not a traditional developer"
+    - "I'm an introvert"
+
+principles:
+  evidence_first: true
+  quiet_confidence: true
+  technical_accuracy: true
+  acknowledge_ai: true
+  show_process: true
+  no_self_promotion: true
+
+language:
+  forbidden:
+    - "passionate about"
+    - "excited to"
+    - "thrilled"
+    - "proven track record"
+    - "extensive experience"
+    - "expert in"
+    - "guru"
+    - "ninja"
+    - "rockstar"
+    - "wizard"
+    - "synergy"
+    - "leverage"
+    - "disrupt"
+    - "game-changer"
+    - "think outside the box"
+    - "hit the ground running"
+    - "self-starter"
+    # French equivalents (lettres de motivation, relances)
+    - "passionné"
+    - "n'hésitez pas"
+    - "solide expérience"
+    - "expert en"
+    - "je suis convaincu"
+    - "force de proposition"
+    - "dynamique et motivé"
+    - "véritable atout"
+    - "savoir-être"
+    - "go-getter"
+    - "team player"  # Show it, don't say it
+    - "!"  # No exclamation marks in professional docs
+    
+  prefer:
+    "passionate about X": "I build X"
+    "extensive experience in": "N years doing X - evidence: Y"
+    "expert in": "I've built [specific thing]"
+    "excited to join": "This role fits because"
+    "proven track record": "[specific achievement with numbers]"
+    "I am writing to apply": "I saw your posting for"
+    "I look forward to": "Happy to talk more"
+    "please don't hesitate to contact": "[just end it]"
+    
+  style:
+    max_sentence_length: 20
+    active_voice: true
+    first_person: true
+    contractions: true
+    short_paragraphs: true
+
+cv:
+  summary_sentences: 3
+  bullets_per_job: [3, 5]
+  quantify: true
+  projects_before_experience: true
+  
+  skill_categories:
+    - name: "Direct Experience"
+      description: "Skills I've used professionally"
+    - name: "AI-Assisted Building"  
+      description: "What I build using AI tools"
+    - name: "Tools"
+      description: "Software I use"
+
+cover_letter:
+  paragraphs: [3, 5]
+  
+  structure:
+    opening:
+      style: "direct"
+      sentences: [1, 2]
+      example: "I saw your posting for X."
+    
+    body:
+      style: "evidence_based"
+      paragraphs: [2, 3]
+      must_include: "specific proof for each claim"
+    
+    gaps:
+      style: "honest"
+      sentences: [0, 2]
+      only_if: "significant gap exists"
+    
+    closing:
+      style: "simple"
+      sentences: 1
+      example: "Happy to talk more about any of this."
+      forbidden: ["I look forward to", "please don't hesitate"]
+
+articles:
+  structure: "problem → approach → what happened → what I learned"
+  tone: "engineer's notebook"
+  length_words: [800, 1200]
+
+  openings:
+    - "I've been building {project}. This week, {event}."
+    - "Here's a problem I hit: {problem}. Here's how I solved it."
+    - "{topic} isn't as hard as it sounds. Here's what's actually involved."
+    - "I don't have a CS degree. Last week I {achievement}."
+    - "I spent {time} debugging one thing. Here's what it taught me."
+
+  forbidden:
+    - "Follow me for more"
+    - "Like and subscribe"
+    - "What do you think? Comment below"
+    - "Share this with someone who"
+    - emojis
+
+  call_to_action: false
+  self_promotion: minimal
+
+# Comedy style for dev blogs - "Dear Diary" format with Basin Method beats
+articles_comedy:
+  format: "diary"
+  tone: "self-deprecating programmer humor, diary entries with narrative arc"
+  length_words: [1800, 2200]
+
+  # Basin Method BLACK layer - 12-24 beats for narrative rhythm
+  # Each beat is a discrete moment/shift in the story
+  beats:
+    min: 12
+    max: 24
+    structure:
+      # ACT 1: SETUP (3-5 beats)
+      - beat: "hook"
+        description: "Dear diary opening - establish the mood"
+      - beat: "context"
+        description: "What I was trying to do (the innocent goal)"
+      - beat: "confidence"
+        description: "Why I thought this would be easy"
+      - beat: "first_attempt"
+        description: "The initial approach"
+
+      # ACT 2: ESCALATION (5-10 beats)
+      - beat: "first_failure"
+        description: "It doesn't work"
+      - beat: "confusion"
+        description: "But why? Check the obvious things"
+      - beat: "second_attempt"
+        description: "Try something else"
+      - beat: "worse_failure"
+        description: "Now it's even more broken"
+      - beat: "rabbit_hole"
+        description: "Go deeper into the wrong direction"
+      - beat: "desperation"
+        description: "3am, questioning life choices"
+      - beat: "false_hope"
+        description: "Think you found it... nope"
+      - beat: "rock_bottom"
+        description: "The lowest point (comedic peak)"
+
+      # ACT 3: REVELATION (2-4 beats)
+      - beat: "break"
+        description: "Step away (coffee, shower, sleep)"
+      - beat: "insight"
+        description: "The moment of clarity"
+      - beat: "the_fix"
+        description: "The embarrassingly simple solution"
+      - beat: "it_works"
+        description: "Sweet relief (or suspicious silence)"
+
+      # ACT 4: REFLECTION (2-5 beats)
+      - beat: "lesson"
+        description: "What I actually learned"
+      - beat: "meta_humor"
+        description: "Self-aware commentary on the absurdity"
+      - beat: "foreshadowing"
+        description: "What's next (hint: more suffering)"
+      - beat: "sign_off"
+        description: "Diary closing with dry wit"
+
+  openings:
+    - "Dear diary, today I mass the page tables again."
+    - "Dear diary, the CPU has betrayed me once more."
+    - "Dear diary, it's 3am and I've made a terrible mistake."
+    - "Dear diary, I thought I understood x86. I was wrong."
+    - "Dear diary, the triple fault is back. It brought friends."
+    - "Dear diary, I debugged for 6 hours. The fix was one line."
+    - "Dear diary, I've been building an OS. No, I'm not okay."
+    - "Dear diary, today I learned that I know nothing."
+
+  humor_rules:
+    - "Self-deprecating, never punch down"
+    - "The suffering is real, the delivery is dry"
+    - "Technical accuracy wrapped in absurdity"
+    - "Relatable developer pain"
+    - "No cringe humor, no memes, no 'hello fellow kids'"
+    - "British-style dry wit preferred"
+    - "Each beat should land - no filler"
+    - "Pacing matters - vary beat length for rhythm"
+
+  forbidden:
+    - "Follow me for more"
+    - "Like and subscribe"
+    - "Comment below"
+    - "Share this"
+    - "LOL"
+    - "LMAO"
+    - "random XD humor"
+    - excessive exclamation marks
+
+  allowed:
+    - "Occasional well-placed exclamation for comedic timing"
+    - "Dry observations about developer life"
+    - "Self-aware acknowledgment of absurd hobby projects"
+
+fraud_detection:
+  flag_on:
+    - unsubstantiated_expertise: ["expert in", "mastery of", "deep knowledge"]
+    - inflated_years: true
+    - missing_evidence: true
+    - forbidden_phrases: true
+    - extrovert_language: true
+    - missing_ai_acknowledgment: true
+  
+  severity_levels:
+    high: ["unsubstantiated_expertise", "inflated_years"]
+    medium: ["forbidden_phrases", "missing_ai_acknowledgment"]
+    low: ["extrovert_language"]

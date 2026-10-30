@@ -1,0 +1,897 @@
+osaka, japan:
+  rent_eur: 650
+  living_eur: 1150
+  transit_eur: 140
+  car_eur: 300
+  transit_good: true
+  japanese_community: strong
+  community_note: Osaka is Japan's third-largest city, with about 2.7 million people
+    in the city and about 8.8 million in the prefecture. Japanese daily life is everywhere.
+    This needs no statistics.
+  note: 'Rent: a 1LDK listing in a quiet residential area near a station costs about
+    ¥110,000 a month (Numbeo May 2026: ¥121k in the centre, ¥87k outside; e-housing
+    2026). Converted at about ¥170/EUR. Running costs and transport are estimates,
+    not checked against current prices: one search only, October 2026.'
+  sources:
+  - https://e-housing.jp/post/this-is-how-much-you-actually-need-to-live-in-japan-in-2026
+  - https://getcostidea.com/?p=5769
+  - https://e-housing.jp/post/average-rent-in-tokyo-vs-osaka-2025-cost-of-living-comparison
+  city: Osaka
+  country: Japan
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+berlin, germany:
+  rent_eur: 1300
+  living_eur: 1300
+  transit_eur: 126
+  car_eur: 450
+  transit_good: true
+  japanese_community: strong
+  community_note: About 4,400 Japanese residents (Germany's second-largest community
+    after Düsseldorf's 8,300); Japanese Embassy, a Japanese supplementary school,
+    Japanese grocers and restaurants, and the German-Japanese Society.
+  note: 'Rent based on 2026 Berlin asking rents of about €18.6/m² (immoportal / ImmoScout24
+    Miet-Map, Feb 2026): about 58 m² for roughly €1,080 before service charges, about
+    €1,300 with heating and service charges included. Transit is 2 Deutschlandtickets
+    at €63 each. Japanese resident numbers come from Wikipedia and Japanese consulate
+    data. Living and car costs are estimates as of Oct 2026.'
+  sources:
+  - https://www.immoportal.com/immobilienpreise/berlin
+  - https://www.scout24.com/fileadmin/user_upload/IS24_20260210_Berlin_Miet-Map_2026.pdf
+  - https://en.wikipedia.org/wiki/Japanese_people_in_Germany
+  - https://en.wikipedia.org/wiki/Japanese_community_of_D%C3%BCsseldorf
+  city: Berlin
+  country: Germany
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+lisbon, portugal:
+  rent_eur: 1450
+  living_eur: 1100
+  transit_eur: 80
+  car_eur: 380
+  transit_good: true
+  japanese_community: some
+  community_note: Small Japanese community in Portugal, roughly 1,000 people and mostly
+    in the Lisbon area (figure not confirmed in this search). The Embassy of Japan
+    is on Av. da Liberdade, and the Japanese School of Lisbon marked its 50th anniversary
+    in 2025. There is a Japan–Portugal alumni group and a few Japanese restaurants
+    and grocers.
+  note: 'Rent is based on a Q2-2026 median of €1,409 for a T1 (one-bedroom flat) in
+    Lisbon city (Euronews, 22 Sep 2026), adjusted for a convenient, quiet area. The
+    living-cost, transit and car figures are estimates: they come from guide ranges
+    plus €40 Navegante metropolitan passes, and the pass price was not checked in
+    this search.'
+  sources:
+  - https://www.euronews.com/2026/09/22/renting-a-one-bedroom-flat-in-portugal-costs-over-200-more-than-the-minimum-wage
+  - https://www.bleap.finance/en-us/blog/cost-of-living-lisbon
+  - https://guide.genki.world/cost-lisbon/
+  - https://kc-i.jp/en/activity/kwn/ota_m/20250206/
+  - https://www.pt.emb-japan.go.jp/files/100511491.pdf
+  city: Lisbon
+  country: Portugal
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+amnéville, france:
+  rent_eur: 680
+  living_eur: 1300
+  transit_eur: 90
+  car_eur: 350
+  transit_good: false
+  japanese_community: little
+  community_note: There is no Japanese consulate in the area; the nearest is in Strasbourg.
+    The Association Metz-Lorraine Japon, about 20 km away in Metz, was founded in
+    2003 and runs cultural events of up to about 150 people. Luxembourg, about 45
+    km away, has more Japanese shops and residents.
+  note: 'Rent is based on ORPI and Foncia listings for Amnéville, October 2026: two-room
+    flats of 47-53 m² cost €485-720 a month, and the average is about €11.3/m² (Trackstone).
+    Amnéville has no station of its own; the nearest TER station is Hagondange, so
+    a car is practical. Living, transport and car costs are estimates for Moselle.'
+  sources:
+  - https://www.orpi.com/annonce-location-appartement-t2-amneville-57360-acef838e-521e-4466-9ea7-5008048faa06/
+  - https://fr.foncia.com/location/amneville-57360/appartement/331658478.htm
+  - https://www.trackstone.fr/prix-immobilier/amneville-57360
+  - https://www.strasbourg.fr.emb-japan.go.jp/files/100542125.pdf
+  city: Amnéville
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+marseille, france:
+  rent_eur: 950
+  living_eur: 1350
+  transit_eur: 100
+  car_eur: 380
+  transit_good: true
+  japanese_community: some
+  community_note: There is a Japanese Consulate-General at 132 bd Michelet (8e), open
+    since 1874, which runs an autumn festival each year at Parc Borély. A Franco-Japanese
+    association (France Japon Connexion) is active and Japan Expo Sud is held here.
+    The resident community is small, likely around a thousand people across the region
+    (estimate, not checked), with a few Japanese restaurants and Asian grocers. There
+    is no Japanese school.
+  note: Average asking rent is about €16.4–16.5/m² (mid-2026, SeLoger and MySweetImmo).
+    For about 55 m² in a quiet, well-connected area (6e, 8e, 4e, 5e), plus building
+    charges, I estimate €950. Living costs and the RTM pass price (about €50/month
+    per adult) are my estimates, not from a source checked today.
+  sources:
+  - https://www.mysweetimmo.com/2026/02/12/prix-immobilier-marseille-fevrier-2026/
+  - https://edito.seloger.com/node/23755
+  - https://habity.fr/ville/marseille-13/immobilier
+  - https://www.marseille-tourisme.com/offres/consulat-general-du-japon-marseille-8eme-fr-3383460/
+  - https://www.japan-expo-sud.com/en/animations/consulate-general-of-japan-in-marseille_1910.htm
+  - https://www.fr.emb-japan.go.jp/files/100978075.pdf
+  city: Marseille
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+bordeaux, france:
+  rent_eur: 950
+  living_eur: 1350
+  transit_eur: 107
+  car_eur: 380
+  transit_good: true
+  japanese_community: some
+  community_note: 'Small Japanese community (a few hundred residents, estimated).
+    Association Matsukaze is registered with the Embassy of Japan and runs a Japan
+    festival in Mérignac and a magazine. Maison du Japon (rue de Cheverus) has courses.
+    Bordeaux is twinned with Fukuoka and a lycée has a Japanese section. No consulate:
+    the nearest is in Paris.'
+  note: Rent comes from 2026 Bordeaux listings (T2 flats of about 50 m², €760–1,050
+    including charges) and a guide quoting about €17–21/m². Living costs, transit
+    (TBM monthly pass, about €53 per adult) and car costs are estimates. Checked 2026-10-20.
+  sources:
+  - https://www.123loger.com/?p=20571
+  - https://www.location-etudiant.fr/annonce-logement-etudiant/location-t2-bordeaux-33300/1427483714.php
+  - https://www.location-etudiant.fr/annonce-logement-etudiant/location-t2-bordeaux-33300/1427475713.php
+  - https://www.helloasso.com/associations/association-matsukaze-bordeaux
+  - https://www.japan-experience.com/fr/preparer-son-voyage/tout-savoir-sur-le-japon/avant-de-partir/voyager-au-japon-a-bordeaux
+  city: Bordeaux
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+pau, france:
+  rent_eur: 720
+  living_eur: 1350
+  transit_eur: 64
+  car_eur: 380
+  transit_good: true
+  japanese_community: little
+  community_note: Very few Japanese residents. Pau has been twinned with Kofu since
+    1975, the university has an exchange with Yamanashi University, and there are
+    occasional Japan culture weeks. No Japanese school, grocer cluster or consulate
+    nearby; the nearest larger community is in Bordeaux or Toulouse.
+  note: 'Rent based on current Pau T2 listings (Foncia, PAP, Orpi) and MySweetImmo,
+    Feb 2026: about 13 €/m², so about 720 € for 55 m² with charges. Living costs include
+    top-up health cover (mutuelle) for two people aged 50+. Transit is an estimate
+    for two monthly Idelis passes. Central Pau works without a car.'
+  sources:
+  - https://www.mysweetimmo.com/2026/02/16/prix-immobilier-pau-fevrier-2026/
+  - https://www.pap.fr/annonces/appartement-pau-64000-r464901737
+  - https://fr.foncia.com/location/pau-64000/appartement/331693925.htm
+  - https://fr.foncia.com/location/pau-64000/appartement/331703757.htm
+  - https://www.yamanashi.ac.jp/en/8638
+  - https://en.tourismepau.com/offers/exposition-senpai-pau-en-6016748
+  city: Pau
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+annemasse, france:
+  rent_eur: 1250
+  living_eur: 1150
+  transit_eur: 100
+  car_eur: 350
+  transit_good: true
+  japanese_community: some
+  community_note: Little Japanese life in Annemasse itself. Geneva, 15-20 min away
+    by Léman Express or tram, has the École Japonaise Complémentaire de Genève (Japanese
+    supplementary school), Japanese restaurants and shops, and Japan's diplomatic
+    offices. Resident numbers not found.
+  note: Rent sourced from Annemasse listings (Square Habitat, Locservice) and MySweetImmo's
+    Feb 2026 market report (about €19.8/m²); T2 flats of 43-56 m² listed at about
+    €1,030-1,200. Living, transit and car figures are unsourced estimates. Checked
+    2026-10-20.
+  sources:
+  - https://www.squarehabitat.fr/square-habitat-des-savoie/annonces/biens/location/appartement/annemasse/b7ca9ff8-de5c-41a8-b94c-876cd0dd912a
+  - https://www.squarehabitat.fr/square-habitat-des-savoie/annonces/biens/location/appartement/annemasse/f7523b31-0ff6-4abe-8d9b-8277fc5277af
+  - https://www.mysweetimmo.com/2026/02/15/prix-immobilier-annemasse-les-cles-du-marche-en-fevrier-2026/
+  - https://www.locservice.fr/haute-savoie-74/location-appartement-annemasse/2305379
+  - https://en.wikipedia.org/wiki/%C3%89cole_Japonaise_Compl%C3%A9mentaire_de_Gen%C3%A8ve
+  city: Annemasse
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+le haillan, france:
+  rent_eur: 780
+  living_eur: 1350
+  transit_eur: 115
+  car_eur: 380
+  transit_good: true
+  japanese_community: some
+  community_note: Bordeaux metro area has a small Japanese community of a few hundred
+    people. The Association Matsukaze in nearby Mérignac is registered with the Embassy
+    of Japan and runs the Japon Matsukaze Festival, language and culture classes.
+    Bordeaux is twinned with Fukuoka. There is a Japanese honorary consul in the area,
+    but no full consulate and no Japanese school.
+  note: Rent is based on Foncia, Locservice and Orpi listings for Le Haillan T2 flats,
+    October 2026 (586-880 €; 53 m² at 760 €; about 780 € expected for 55-60 m²). Living
+    and transport costs are estimates based on typical Bordeaux-area prices. Tram
+    A (Le Haillan Rostand terminus) and TBM buses serve the town; the monthly pass
+    is about 57 € per adult.
+  sources:
+  - https://www.locservice.fr/gironde-33/location-appartement-le-haillan.html
+  - https://fr.foncia.com/location/le-haillan-33185/appartement/331703037.htm
+  - https://www.orpi.com/annonce-location-appartement-t2-le-haillan-33185-d48607f7-c72b-421c-8612-a876273296e7/
+  - https://www.helloasso.com/associations/association-matsukaze-bordeaux
+  city: Le Haillan
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+grignols, france:
+  rent_eur: 550
+  living_eur: 1350
+  transit_eur: 0
+  car_eur: 380
+  transit_good: false
+  japanese_community: little
+  community_note: Small rural village (~1,200 people) in southern Gironde. No Japanese
+    community nearby. The closest is in Bordeaux, about 70 km away, which has a few
+    hundred Japanese residents, an honorary consular office, Japanese associations
+    and a few shops. The figure of a few hundred residents is an estimate and was
+    not checked against MOFA statistics.
+  note: Based only on Locservice/Square Habitat listings checked on 2026-10-20. No
+    flats were listed in Grignols itself, so rent is extrapolated from nearby T2s
+    (about €450-460 for 30-42 m²). There is no train or tram, so a car is essential
+    and transit is set to 0. Living costs are estimates and were not checked against
+    Numbeo. If the user meant Grignols in Dordogne, the costs would be similar.
+  sources:
+  - https://www.locservice.fr/gironde-33/location-grignols.html
+  - https://www.squarehabitat.fr/annonces/location/bien/appartement/immobilier/nouvelle-aquitaine/gironde/grignols-33690
+  city: Grignols
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+athens, greece:
+  rent_eur: 800
+  living_eur: 1150
+  transit_eur: 54
+  car_eur: 350
+  transit_good: true
+  japanese_community: some
+  community_note: There are only a few hundred Japanese residents in Greece, nearly
+    all in Athens. Japan has an embassy in Athens and there is a Greek-Japanese Association.
+    Japanese places include Sushimou, Birdman, the Ikigai Japanese food store and
+    The Sushi Bar chain. The Japanese school in Ano Pefki closed in 2007.
+  note: From 2026 cost-of-living summaries based on Numbeo (central 1-bedroom about
+    €625–1,050; outskirts €480–700), raised to listing level for a 55 m² flat near
+    the metro. The other figures (living costs, €27 monthly pass per adult, car costs)
+    and the residents count are estimates I did not check. Searched 2026-10-20.
+  sources:
+  - https://freenance.io/cities/athens-cost-of-living-2026-greece-digital-nomad-visa-50-percent-rent-food-tax-expat/
+  - https://realgreekexperiences.com/cost-of-living-in-athens-greece
+  - https://wise.com/gb/cost-of-living/greece/athens
+  - https://en.wikipedia.org/wiki/Japanese_Community_School_of_Athens
+  - https://www.athensinsider.com/asia-comes-to-athens-finally/
+  - https://www.mofa.go.jp/region/europe/eu/exchange2005/greece.pdf
+  city: Athens
+  country: Greece
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+lyon, france:
+  rent_eur: 1050
+  living_eur: 1500
+  transit_eur: 150
+  car_eur: 380
+  transit_good: true
+  japanese_community: some
+  community_note: Japan has a consular office in Lyon. Espace Lyon-Japon offers language
+    and culture courses, and the Japan Business Club Rhône-Alpes counts 82 Japanese-owned
+    firms in the region. I couldn't find a resident count for Lyon in my searches.
+    There are a few Japanese restaurants and grocers, but the community is much smaller
+    than in Paris.
+  note: Rent is based on MoneyVox's October 2026 average of €17.70/m² for flats, applied
+    to about 55 m², plus €50–80 a month in charges. Living costs, transport and car
+    costs are estimates. I didn't check them against Numbeo or TCL pass prices.
+  sources:
+  - https://www.moneyvox.fr/immobilier/actualites/110754/marche-immobilier-a-lyon-les-prix-progressent-en-octobre-2026
+  - https://www.mysweetimmo.com/2026/02/20/prix-immobilier-lyon-fevrier-2026/
+  - https://www.fr.emb-japan.go.jp/files/100547735.pdf
+  - https://www.lyon.fr/node/30500
+  - https://www.lejournaldesentreprises.com/article/japan-business-club-rhone-alpes-82-entreprises-concernees-26888
+  city: Lyon
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+porto, portugal:
+  rent_eur: 1050
+  living_eur: 950
+  transit_eur: 80
+  car_eur: 350
+  transit_good: true
+  japanese_community: little
+  community_note: 'Small Japanese presence in Porto: an honorary consul for Northern
+    Portugal (Isabel Azevedo, since 2024) and a few Japanese restaurants. The embassy,
+    the Japanese supplementary school and most of Portugal''s Japanese residents (low
+    thousands at most) are in Lisbon.'
+  note: Rent based on the Q2 2026 median for a T1 (one-bedroom) in Porto (€983, Euronews,
+    Sept 2026) and 2026 listing ranges of €900–1,150. Living costs are an estimate
+    for a couple. Transit assumes two Andante metropolitan passes at about €40 each.
+    Car cost is an estimate.
+  sources:
+  - https://de.euronews.com/business/2026/09/22/portugal-miete-fur-t1-ubersteigt-mindestlohn-um-200-euro
+  - https://investropa.com/blogs/news/average-rent-porto
+  - https://www.imovirtual.com/pt/anuncio/apartamento-t1-novo-porto-ID1fLwF
+  - https://www.pt.emb-japan.go.jp/files/100686297.pdf
+  city: Porto
+  country: Portugal
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+dublin, ireland:
+  rent_eur: 2100
+  living_eur: 1350
+  transit_eur: 192
+  car_eur: 450
+  transit_good: true
+  japanese_community: some
+  community_note: A small Japanese community, mostly in Dublin. There is a Japanese
+    Embassy in Dublin, a Saturday school for Japanese children started by the Japanese
+    Business Society, the Japanese School of Ireland and the Ireland Japan Association,
+    plus Asian grocers and Japanese restaurants. I did not check MOFA resident figures.
+  note: 'Rent comes from 2026 summaries of the Daft.ie Q1/Q2 2026 reports (1-bed:
+    about €2,100, range €1,850-2,500). Living, transit and car costs are my own estimates,
+    not taken from Numbeo or other searched sources. Checked 2026-10-20.'
+  sources:
+  - https://www.daft.ie/report/ronan-lyons-2016q2-rental
+  - https://www.laois-nationalist.ie/news/daft-ie-have-released-their-report-for-the-second-quarter-of-2026_arid-109241.html
+  - https://settle.ie/guides/renting-in-ireland/
+  - https://www.ie.emb-japan.go.jp/itpr_en/00_000276.html
+  - https://www.ie.emb-japan.go.jp/itpr_en/00_000397.html
+  city: Dublin
+  country: Ireland
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+brignais, france:
+  rent_eur: 760
+  living_eur: 1350
+  transit_eur: 145
+  car_eur: 380
+  transit_good: false
+  japanese_community: some
+  community_note: Brignais itself has almost no Japanese presence. Lyon, about 20
+    km and 30-45 min away, has a Japanese consular office, a Japanese residents' association,
+    the Japan Business Club Rhône-Alpes (82 firms), Japanese grocers and restaurants.
+    Its resident count of roughly 1,000-1,500 is my estimate; the sources found give
+    no figure.
+  note: Rent comes from current Brignais 2-room listings on Square Habitat and Locservice
+    (46-51 m² at €612-642 plus charges), scaled up to 55-60 m² with charges. Living,
+    transit and car costs are my estimates for the Lyon area, not taken from Numbeo.
+    Brignais has a tram-train to Lyon Saint-Paul and TCL buses, but service is sparse,
+    so a car helps. Checked October 2026.
+  sources:
+  - https://www.squarehabitat.fr/square-habitat-centre-est/annonces/biens/location/appartement/brignais/5b710c71-b0f4-4d74-abf6-23339c9eee46
+  - https://www.squarehabitat.fr/square-habitat-centre-est/annonces/biens/location/appartement/brignais/6c692f3e-f51e-475a-a299-6205d98719e2
+  - https://www.locservice.fr/rhone-69/location-particulier-brignais-p18.html
+  - https://www.fr.emb-japan.go.jp/files/100547735.pdf
+  - https://www.lejournaldesentreprises.com/article/japan-business-club-rhone-alpes-82-entreprises-concernees-26888
+  city: Brignais
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+mérignac, france:
+  rent_eur: 900
+  living_eur: 1700
+  transit_eur: 105
+  car_eur: 350
+  transit_good: true
+  japanese_community: some
+  community_note: There is a Japanese honorary consulate in Bordeaux (Place de la
+    Bourse). The Matsukaze Franco-Japanese association is registered with the Japanese
+    embassy and runs aikido, tea ceremony and Japanese classes, plus the Japon Matsukazé
+    festival in Mérignac itself. Bordeaux is twinned with Fukuoka. A small resident
+    community of a few hundred people, centred on Bordeaux. Resident numbers were
+    not checked.
+  note: Rent comes from Square Habitat and Locservice listings for Mérignac, Oct 2026.
+    Two-room flats of 43-46 m² are listed at €730-810 excluding charges, and a 51
+    m² flat at €980 including charges. Transit and living costs are estimates and
+    were not checked against a source.
+  sources:
+  - https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-101079735471
+  - https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/merignac/9eec81fe-064b-4ace-8a14-b31dd988d26d
+  - https://www.helloasso.com/associations/association-matsukaze-bordeaux
+  city: Mérignac
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-20'
+takatsuki, japan:
+  rent_eur: 470
+  living_eur: 1150
+  transit_eur: 150
+  car_eur: 250
+  transit_good: true
+  japanese_community: strong
+  community_note: Takatsuki is a Japanese city of about 350,000 people between Osaka
+    and Kyoto, so everyday Japanese life is all around (shops, restaurants, community
+    associations). MOFA overseas-resident figures do not apply here.
+  note: 'Main sources: athome.co.jp rent averages for 1LDK flats from the last 3 months
+    (Takatsuki Station about ¥70,900, Takatsuki-shi Station about ¥74,000, plus a
+    management fee, so about ¥80,000 a month) and Numbeo Osaka figures, checked 2026-10-21.
+    Converted at about ¥170 per euro. Train passes are JR/Hankyu commuter passes to
+    Osaka for two adults.'
+  sources:
+  - https://www.athome.co.jp/chintai/souba/osaka/takatsuki-st/
+  - https://www.athome.co.jp/chintai/souba/osaka/takatsukishi-st/
+  - https://www.athome.co.jp/chintai/souba/osaka/takatsuki-city/
+  - https://nomada.tools/tools/cost-of-living/osaka
+  - https://www.expatexchange.com/gdc/8/61/7380/Japan/Cost-of-Living-in-Osaka
+  city: Takatsuki
+  country: Japan
+  household: a couple aged 50 and 55
+  fetched: '2026-10-21'
+higashiosaka, japan:
+  rent_eur: 460
+  living_eur: 1150
+  transit_eur: 120
+  car_eur: 270
+  transit_good: true
+  japanese_community: strong
+  community_note: Higashiosaka is a Japanese city of about 480,000 people in Osaka
+    Prefecture, so all of daily life is Japanese. A consulate or overseas association
+    is not relevant there.
+  note: Rent is based on the 1LDK/2DK market averages for Higashiosaka on athome and
+    homemate (about ¥63,000–77,000), plus a little extra for a flat near a station
+    (about ¥78,000). Living costs for the couple are estimated at about ¥195,000 a
+    month. Transit assumes two Kintetsu or Osaka Metro passes at about ¥10,000 each.
+    Numbeo figures come through secondary sites and are for Osaka. The yen is converted
+    at about ¥170 to €1. Checked October 2026.
+  sources:
+  - https://www.athome.co.jp/chintai/souba/osaka/higashiosaka-city/
+  - https://www.homemate.co.jp/kt_132/pr-osaka/27115/
+  - https://www.worldcostofliving.com/compare/tokyo-vs-osaka
+  - https://www.ejable.com/japan-corner/life-in-japan/life-in-osaka/
+  city: Higashiosaka
+  country: Japan
+  household: a couple aged 50 and 55
+  fetched: '2026-10-21'
+amagasaki (commute from osaka), japan:
+  rent_eur: 530
+  living_eur: 1200
+  transit_eur: 75
+  car_eur: 250
+  transit_good: true
+  japanese_community: strong
+  community_note: Amagasaki is a Japanese city of about 450,000 people in Hyogo, right
+    next to Osaka, so a Japanese spouse is simply at home.
+  note: 'Rent is based on HOMEMATE/LIFULL listings from 2026: 1LDK–2DK flats run about
+    ¥85k; I assumed about ¥90k for 50–60 m² near a station. I also used livingcost.org
+    and assumed about ¥172 to the euro. Living costs (about ¥205k for a couple) are
+    my own estimate, and the JR Amagasaki–Osaka pass (about ¥6.5k per person) and
+    car costs are approximate.'
+  sources:
+  - https://www.homemate.co.jp/archive/hbn-C696016199/
+  - https://lifullhomes-index.jp/buildings/b-17315325/
+  - https://livingcost.org/cost/japan/amagasaki
+  city: Amagasaki (commute from Osaka)
+  country: Japan
+  household: a couple aged 50 and 55
+  fetched: '2026-10-21'
+sakai (osaka), japan:
+  rent_eur: 460
+  living_eur: 840
+  transit_eur: 115
+  car_eur: 260
+  transit_good: true
+  japanese_community: strong
+  community_note: Sakai is a city in Japan of about 820,000 people, so Japanese shops,
+    services and community life are everywhere. It is a designated city in Osaka Prefecture
+    with 7 wards and is about 10–20 minutes from Namba/Tennoji on the Nankai and JR
+    lines and Midosuji subway.
+  note: Rent uses current Sakai 1LDK listings of ¥69k–87k (median about ¥78k including
+    fees, at about ¥172/EUR). Living costs and car are estimated from Osaka-area cost-of-living
+    guides (Wise, Expatica). Checked 2026-10-21.
+  sources:
+  - https://resources.realestate.co.jp/rent/what-is-the-average-rent-in-osaka/
+  - https://x-house.co.jp/en/column/usefulinfo/xross-2054/
+  - https://wise.com/en-jp/blog/renting-in-japan
+  - https://expatica.com/jp/about/basics/cost-of-living-in-japan-79397
+  city: Sakai (Osaka)
+  country: Japan
+  household: a couple aged 50 and 55
+  fetched: '2026-10-21'
+brussels, belgium:
+  rent_eur: 1250
+  living_eur: 1350
+  transit_eur: 120
+  car_eur: 450
+  transit_good: true
+  japanese_community: strong
+  community_note: About 5,700 Japanese residents in Belgium (embassy survey, 2012),
+    roughly half of them in Brussels and centred on Auderghem, where the Japanese
+    School of Brussels is (641 Japanese residents there in 2005). Brussels also has
+    the Japanese embassy and Japanese grocers and restaurants.
+  note: 'Rent comes from 2026 listing-based figures for a 1-bedroom flat in Brussels
+    (€1,080–1,280 average, typical range €950–1,450), rounded up for a quiet, well-connected
+    area. Living costs and the STIB transit pass (about €58 per adult) are estimates.
+    Sources: Brussels Times, lifeindexed and Wikipedia, checked 2026-10.'
+  sources:
+  - https://www.brusselstimes.com/brussels-2/1731965/average-rent-now-at-least-e1000-across-all-of-brussels
+  - https://lifeindexed.com/property/europe/belgium/brussels/2026/
+  - https://www.globexs.com/expats-in-belgium/rent-prices-brussels-neighbourhoods/
+  - https://en.wikipedia.org/wiki/Japanese_people_in_Belgium
+  - https://en.wikipedia.org/wiki/Japanese_community_of_Brussels
+  - https://en.wikipedia.org/wiki/Japanese_School_of_Brussels
+  city: Brussels
+  country: Belgium
+  household: a couple aged 50 and 55
+  fetched: '2026-10-21'
+paris, france:
+  rent_eur: 1800
+  living_eur: 1300
+  transit_eur: 182
+  car_eur: 480
+  transit_good: true
+  japanese_community: strong
+  community_note: About 10,600 Japanese residents in Paris in 2023 and about 70% of
+    Japanese people in France live in Île-de-France. There is a Japanese quarter around
+    Rue Sainte-Anne/Opéra with grocers like K-Mart and Kioko, and there are Japanese
+    schools, an embassy/consulate, the Maison de la culture du Japon and associations.
+  note: 'Rent comes from 123loger and MoneyVox 2026 listing data (2-room flat about
+    €1,650-1,660 average; €33.5/m² in June 2026), adjusted for 55 m² in a good area.
+    Living, transit and car costs are estimates: the Navigo pass is about €91 per
+    adult per month.'
+  sources:
+  - https://www.123loger.com/blog/barometre-des-loyers-123-loger-mars-2026/
+  - https://www.moneyvox.fr/immobilier/actualites/109240/immobilier-a-paris-legere-progression-des-prix-en-juin-2026
+  - https://en.wikipedia.org/wiki/Japanese_community_of_Paris
+  - https://www.chooseparisregion.org/why-paris-region/a-cosmopolitan-region/japanese-community
+  city: Paris
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-21'
+kashiwara, osaka, japan:
+  rent_eur: 410
+  living_eur: 950
+  transit_eur: 140
+  car_eur: 210
+  transit_good: true
+  japanese_community: strong
+  community_note: Kashiwara is a city in Japan (about 67,000 residents) in the Osaka
+    metropolitan area, so Japanese daily life, shops and services are everywhere.
+  note: Rent is based on the at home and nifty listing averages for Kashiwara 1LDK
+    flats (about ¥62–65k) plus about ¥5k common fees. I converted at about ¥170 =
+    €1. I only searched for rent. The living, transit and car figures are my own estimates
+    and were not checked against any source. Data as of October 2026.
+  sources:
+  - https://www.athome.co.jp/chintai/souba/osaka/kashiwara-city/
+  - https://www.athome.co.jp/chintai/souba/osaka/kashiwara-st/
+  - https://myhome.nifty.com/mansion-info/osaka/kashiwarashi_ct/mansion_c56bb7575f2c55ce67ca0d8ec89ad68f/
+  city: Kashiwara, Osaka
+  country: Japan
+  household: a couple aged 50 and 55
+  fetched: '2026-10-21'
+amagasaki, japan:
+  rent_eur: 530
+  living_eur: 1050
+  transit_eur: 100
+  car_eur: 250
+  transit_good: true
+  japanese_community: strong
+  community_note: Amagasaki is a Japanese city of about 450,000 people in Hyogo Prefecture,
+    between Osaka and Kobe, so everyday Japanese life is all around.
+  note: Rent is from athome.co.jp 1LDK averages (about ¥80,000 citywide, ¥81,500 near
+    Amagasaki Station, Oct 2026), raised to about ¥92,000 for 50-65 m². The other
+    figures are estimates at about ¥175 per euro.
+  sources:
+  - https://www.athome.co.jp/chintai/souba/hyogo/amagasaki-city/
+  - https://www.athome.co.jp/chintai/souba/hyogo/amagasaki-st/
+  - https://www.homemate.co.jp/archive/hbn-C696016199/
+  city: Amagasaki
+  country: Japan
+  household: a couple aged 50 and 55
+  fetched: '2026-10-22'
+beynost, france:
+  rent_eur: 800
+  living_eur: 1250
+  transit_eur: 170
+  car_eur: 380
+  transit_good: false
+  japanese_community: some
+  community_note: Beynost is about 15 km from Lyon by TER train. Lyon has a Japanese
+    consular office (131 bd de Stalingrad, Villeurbanne), the Japanese section of
+    the Cité Scolaire Internationale (MEXT supplementary school) and the city's Espace
+    Lyon-Japon. The Lyon-area Japanese community is modest, roughly 1,000–2,000 people
+    (estimate; MOFA figure not checked).
+  note: 'Rent estimated from a few LocService T2 listings near Beynost (Oct 2026):
+    about €700–960, with few T2s in Beynost itself. Living costs and car cost are
+    typical estimates for France. Transit is two TER+TCL passes from Beynost to Lyon,
+    also an estimate. A car is advisable because Beynost is suburban with an hourly
+    to half-hourly TER service.'
+  sources:
+  - https://www.locservice.fr/ain-01/location-appartement-beynost.html
+  - https://www.locservice.fr/ain-01/location-beynost-p2.html
+  - https://www.lyon.fr.emb-japan.go.jp/itprtop_fr/index.html
+  - https://en.wikipedia.org/wiki/Cit%C3%A9_Scolaire_Internationale_de_Lyon
+  - https://www.lyon.fr/node/30500
+  city: Beynost
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-22'
+montpellier, france:
+  rent_eur: 900
+  living_eur: 1350
+  transit_eur: 0
+  car_eur: 350
+  transit_good: true
+  japanese_community: some
+  community_note: 'The Japanese community is small: the Assiana Japanese association
+    (route de Lavérune) and a Japanese children''s group (kodomokai) listed by the
+    consulate. The nearest consulate is in Marseille, about 170 km away. There is
+    no Japanese school. A few Japanese restaurants and shops are in town.'
+  note: Rent is listing prices of about €15.9-20/m² (SeLoger, LocService, Foncia 2026)
+    applied to 50-60 m², charges included. Transit is €0 because buses and trams are
+    free for residents of Montpellier Métropole since Dec 2023 (from memory, not checked).
+    Living costs include about €200/month top-up health cover (mutuelle) for a couple
+    in their 50s. Searched 2026-10-22.
+  sources:
+  - https://www.locservice.fr/actualites/?p=16655
+  - https://www.studapart.com/fr/proprietaires/guides-proprietaires/prix-loyer-montpellier
+  - https://edito.seloger.com/node/23753
+  - https://fr.foncia.com/location/montpellier-34/appartement/331715879.htm
+  - https://www.marseille.fr.emb-japan.go.jp/jp/ryouji/sijyokyouiku/shijyodetail/shijyodetailPDF/kodomokai.montpellier.2011.2.pdf
+  - https://www.pagesjaunes.fr/pros/55429981
+  city: Montpellier
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-22'
+higashi-osaka, japan:
+  rent_eur: 480
+  living_eur: 1150
+  transit_eur: 120
+  car_eur: 220
+  transit_good: true
+  japanese_community: strong
+  community_note: 'Higashi-Osaka is a Japanese city, so everyday Japanese life is
+    all around: about 480,000 residents and Japanese shops, services and associations
+    everywhere. No search was needed for this.'
+  note: 'Rent: HOMEMATE listings show average asking rent for 1LDK–2DK flats in Higashi-Osaka
+    was ¥79,500 on 15 Oct 2026, giving about €480 at roughly ¥170 per euro. Living
+    costs come from Numbeo figures for Osaka as reported by expatexchange (Osaka is
+    about 14% cheaper than Tokyo, not counting rent). The transit and car amounts
+    are estimates, not looked up: two monthly Kintetsu/Osaka Metro passes and the
+    running costs of a used kei car.'
+  sources:
+  - https://www.homemate.co.jp/archive/hbn-D053018793/
+  - https://www.expatexchange.com/gdc/8/61/7380/Japan/Cost-of-Living-in-Osaka
+  - https://nomada.tools/tools/cost-of-living/osaka
+  city: Higashi-Osaka
+  country: Japan
+  household: a couple aged 50 and 55
+  fetched: '2026-10-23'
+saint-genis-laval (lyon), france:
+  rent_eur: 950
+  living_eur: 1250
+  transit_eur: 146
+  car_eur: 380
+  transit_good: true
+  japanese_community: some
+  community_note: The Lyon metro area has a Japanese consular office (131 bd Stalingrad,
+    Villeurbanne) that serves Auvergne-Rhône-Alpes, plus a Japanese residents' association.
+    Lyon has been twinned with Yokohama for over 50 years. The community is much smaller
+    than the one in Paris. I did not check resident numbers, shops or the school.
+  note: 'Rent is based on LocService/Laforêt listings for Saint-Genis-Laval checked
+    on 2026-10-24: 2-room flats (T2) listed at €745–1,125, so I estimate about €950
+    for 50–60 m². Living costs, transit and car costs are my estimates and were not
+    checked online. Transit assumes two TCL passes at about €73 each and the metro
+    B stop at Hôpitaux Sud. Community details are from the embassy/consulate pages.'
+  sources:
+  - https://www.locservice.fr/rhone-69/location-t2-st-genis-laval.html
+  - https://www.laforet.com/agence-immobiliere/saintgenislaval/louer/saint-genis-laval/appartement-2-pieces-52412192
+  - https://embassies.net/japan-in-france/lyon
+  - https://www.lyon.fr.emb-japan.go.jp/fr/pdf/discours14dec2015.pdf
+  city: Saint-Genis-Laval (Lyon)
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-24'
+bron (lyon), france:
+  rent_eur: 880
+  living_eur: 1350
+  transit_eur: 145
+  car_eur: 380
+  transit_good: true
+  japanese_community: some
+  community_note: Lyon has a Japanese consular office and a Japanese residents' association
+    (Association Lyon-Japon Nihonjinkai, 34 rue Victor Hugo). There are sister-city
+    links with Yokohama and Japanese cultural events. No figure for the number of
+    residents was found.
+  note: 'Rent comes from RealAdvisor Bron (July 2026: about €236/m² per year, roughly
+    €20/m² per month) and one listing (a 48 m² two-room flat at €650 including charges).
+    I set a 55 m² flat with charges near tram T2 or metro D at about €880. The rest
+    are my estimates and were not checked: two TCL monthly passes at about €72 each,
+    a car at about €380, and living costs at about €1,350.'
+  sources:
+  - https://realadvisor.fr/fr/prix-m2-immobilier/69500-bron
+  - https://www.location-etudiant.fr/annonce-logement-etudiant/location-t2-bron-69500/1426965627.php
+  - https://www.lyon.fr.emb-japan.go.jp/itprtop_fr/index.html
+  - https://www.lyon.fr/recherche?page=471
+  city: Bron (Lyon)
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-25'
+vénissieux (lyon), france:
+  rent_eur: 850
+  living_eur: 1150
+  transit_eur: 150
+  car_eur: 380
+  transit_good: true
+  japanese_community: some
+  community_note: Greater Lyon has roughly 1,000 to 1,500 Japanese residents (my estimate).
+    There is a Japanese consular office in Villeurbanne, a Japanese residents' association,
+    a JETRO Lyon office, a Japan Business Club Rhone-Alpes (82 companies) and Japanese
+    restaurants and shops in central Lyon, about 20 minutes away by metro D or tram
+    T4. Venissieux itself has very little.
+  note: Rent is about 15 EUR/m2 in listings (PAP; Foncia's T2 ads run 650-930 EUR
+    including charges), so a 55 m2 T2 near metro D or tram T4 costs about 850 EUR
+    with charges. The other figures are my estimates. Searched 2026-10-25.
+  sources:
+  - https://www.pap.fr/vendeur/prix-m2/venissieux-69200-g35447
+  - https://fr.foncia.com/location/venissieux-69200/appartement/331698950.htm
+  - https://www.location-etudiant.fr/annonce-logement-etudiant/location-t2-venissieux-69200/1427453426.php
+  - https://www.consulate-info.com/consulate/15597/Japan-in-Lyon
+  - https://www.lyon.fr.emb-japan.go.jp/itprtop_fr/index.html
+  - https://www.lejournaldesentreprises.com/article/japan-business-club-rhone-alpes-82-entreprises-concernees-26888
+  city: Vénissieux (Lyon)
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-25'
+pessac, france:
+  rent_eur: 880
+  living_eur: 1350
+  transit_eur: 104
+  car_eur: 350
+  transit_good: true
+  japanese_community: some
+  community_note: Japanese honorary consulate in Bordeaux (17 Place de la Bourse).
+    Association Matsukaze (aikido, tea ceremony, calligraphy, Japanese classes, 'Culture
+    Japon 33' magazine, Japon Matsukazé festival in Mérignac). Bordeaux has Japanese
+    restaurants and Asian grocers. No resident count found.
+  note: 'Rent from Pessac T2 listings on location-etudiant.fr (Oct 2026): average
+    €794, mostly 27-41 m² at €690-850 incl. charges, scaled to 50-60 m² at about €19/m².
+    Living costs, the TBM pass price (about €52 per adult) and car cost are estimates
+    not checked online.'
+  sources:
+  - https://www.location-etudiant.fr/logement-etudiant/Pessac-33318-T2-2.html
+  - https://www.location-etudiant.fr/annonce-logement-etudiant/location-t2-pessac-33600/1424095623.php
+  - https://www.helloasso.com/associations/association-matsukaze-bordeaux
+  city: Pessac
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-27'
+lyon (tassin-la-demi-lune), france:
+  rent_eur: 950
+  living_eur: 1350
+  transit_eur: 150
+  car_eur: 350
+  transit_good: true
+  japanese_community: some
+  community_note: There are about 4,000 Japanese nationals in Auvergne-Rhône-Alpes.
+    Japan's consular office is in Villeurbanne (131 bd de Stalingrad), and the Nihonjinkai
+    residents' association is at 34 rue Victor Hugo, Lyon 2e. The searches did not
+    check for Japanese shops or restaurants in Lyon, or for a Japanese Saturday school.
+    The community is far smaller than the one in Paris.
+  note: Current two-room listings in Tassin (Foncia, PAP, Orpi; Oct 2026) run €742–900
+    including charges, but most are 42–46 m². One 61 m² flat is €900. So about €950
+    is estimated for 50–65 m². Living and car costs are estimates, not taken from
+    sources. The transit figure assumes about €75 per adult for a monthly TCL pass,
+    which was not checked. The tram-train and buses link Tassin to Lyon.
+  sources:
+  - https://www.orpi.com/annonce-location-appartement-t2-tassin-la-demi-lune-69160-ef26f6de-5352-406c-95c7-3b408cb711d9/
+  - https://www.pap.fr/annonces/-r465701159
+  - https://fr.foncia.com/location/tassin-la-demi-lune-69160/appartement/331683388.htm
+  - https://fr.foncia.com/location/tassin-la-demi-lune-69160/appartement/331698859.htm
+  - https://www.123loger.com/location/tassin-la-demi-lune-69160/appartement/677faebf7efb/
+  - https://www.mofa.go.jp/mofaj/annai/zaigai/list/europe/france.html
+  - https://www.lyon.fr.emb-japan.go.jp/itprtop_fr/index.html
+  city: Lyon (Tassin-la-Demi-Lune)
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-27'
+charancieu, france:
+  rent_eur: 680
+  living_eur: 1050
+  transit_eur: 0
+  car_eur: 380
+  transit_good: false
+  japanese_community: little
+  community_note: Rural Isère village of about 900 people with no Japanese community.
+    The nearest Japanese shops and associations are in Lyon (about 60 km away, with
+    a consulate and some hundreds of residents) and Grenoble (Japanese researchers).
+  note: Rent is based on Locservice listings from Oct 2026 (55 m² T2 in Pont-de-Beauvoisin
+    for €770 including charges; T2s nearby for €630–800). A car is essential because
+    there is no useful public transport; the nearest train station is Pont-de-Beauvoisin,
+    about 6 km away.
+  sources:
+  - https://www.locservice.fr/isere-38/location-charancieu.html
+  - https://www.locservice.fr/isere-38/location-t2-le-pont-de-beauvoisin.html
+  city: Charancieu
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-27'
+saint-priest (lyon), france:
+  rent_eur: 920
+  living_eur: 1650
+  transit_eur: 150
+  car_eur: 350
+  transit_good: true
+  japanese_community: some
+  community_note: Lyon has a Japanese consular office (Bureau consulaire du Japon,
+    covering Rhône-Alpes and Auvergne), the Espace Lyon-Japon cultural centre, a Japanese
+    residents' association and Franco-Japanese associations. It has a few Japanese
+    shops and restaurants, mostly in central Lyon about 30 minutes from Saint-Priest.
+    The community is roughly 1,000 to 1,500 people, an estimate I could not confirm
+    in MOFA data.
+  note: 'Rent is based on listings on SeLoger, PAP and RealAdvisor for Saint-Priest
+    in 2026: about €214/m² a year, or about €18/m² a month, so a 55 m² two-room flat
+    costs about €900–950 with charges. The TCL transit pass (about €75 per adult),
+    living costs and car costs are estimates; I did not look up an index for them.
+    Checked 2026-10-27.'
+  sources:
+  - https://edito.seloger.com/node/23317
+  - https://www.pap.fr/annonce/locations-appartement-saint-priest-69800-g35662
+  - https://realadvisor.fr/fr/prix-m2-immobilier/69800-saint-priest/2eme-avenue
+  - https://www.lyon.fr/lieu/centres-culturels-pluridisciplinaires/espace-lyon-japon
+  - https://www.lyon.fr.emb-japan.go.jp/jp/pdf/brochure_sd.pdf
+  city: Saint-Priest (Lyon)
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-27'
+lyon (bron), france:
+  rent_eur: 780
+  living_eur: 1100
+  transit_eur: 140
+  car_eur: 380
+  transit_good: true
+  japanese_community: some
+  community_note: Lyon has a Japanese Consular Office covering Auvergne-Rhône-Alpes
+    and a Japanese residents' association (Lyon Japon Nihonjinkai). Japanese residents
+    in the region number roughly in the low thousands, with a few Japanese grocers
+    and restaurants in central Lyon. Bron is linked by tram T2/T5. The resident count
+    and the shops are estimates; I did not confirm them.
+  note: Rent is from RealAdvisor Bron (median listing ~1,240€, ~€19.7/m² a year ≈
+    €13-14/m² a month, July 2026) plus a 48 m² T2 at 650€ all-in. I estimated a 55
+    m² T2 at about 780€ all-in. Living costs and the TCL pass (~€70/adult) are estimates,
+    as of 2026-10-29.
+  sources:
+  - https://realadvisor.fr/fr/prix-m2-immobilier/69500-bron
+  - https://www.location-etudiant.fr/annonce-logement-etudiant/location-t2-bron-69500/1426965627.php
+  - https://www.lyon.fr.emb-japan.go.jp/files/000197843.pdf
+  - https://www.lyon.fr.emb-japan.go.jp/fr/pdf/discours14dec2015.pdf
+  city: Lyon (Bron)
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-29'
+oullins-pierre-bénite (lyon), france:
+  rent_eur: 900
+  living_eur: 1250
+  transit_eur: 150
+  car_eur: 350
+  transit_good: true
+  japanese_community: some
+  community_note: About 4,000 Japanese nationals live in Auvergne-Rhône-Alpes, many
+    of them in the Lyon area. Lyon has a Japanese consular office (bureau consulaire),
+    a Japanese residents' association, Espace Lyon-Japon and a Japan business club
+    with about 80 firms. Japanese shops and restaurants are in central Lyon, 15–20
+    minutes away by metro B.
+  note: 'Rent is based on current Foncia/Orpi/PAP listings in Oullins (Oct 2026):
+    44–48 m² two-room flats at €720–780 including charges, so about €900 for 50–65
+    m². Living costs include top-up health cover (mutuelle) for two people in their
+    50s, about €250. Transit is two TCL monthly passes, about €75 each. Metro B reaches
+    Oullins and Saint-Genis-Laval.'
+  sources:
+  - https://fr.foncia.com/location/oullins-69600/appartement/331689881.htm
+  - https://fr.foncia.com/location/oullins-69600/appartement/331690795.htm
+  - https://www.orpi.com/annonce-location-appartement-t2-oullins-69600-6fb26f07-6fdf-4592-8c3a-0440d2cbc1d3/
+  - https://www.pap.fr/annonce/locations-appartement-oullins-69600-g35595
+  - https://www.lyon.fr.emb-japan.go.jp/files/101038709.pdf
+  - https://www.lejournaldesentreprises.com/article/japan-business-club-rhone-alpes-82-entreprises-concernees-26888
+  - https://www.lyon.fr/node/30500
+  city: Oullins-Pierre-Bénite (Lyon)
+  country: France
+  household: a couple aged 50 and 55
+  fetched: '2026-10-29'

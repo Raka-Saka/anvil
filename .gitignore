@@ -1,0 +1,57 @@
+# Secrets - NEVER commit
+config/api_keys.yaml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv
+venv/
+ENV/
+
+# Output files (generated content)
+output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Drafts (auto-generated)
+drafts/
+
+# More secrets
+config/client_secrets.json
+config/youtube_token.json
+
+# Large media and stray files
+media/music/
+nul
+/test*.pdf
+data/fx.json
+logs/
+config/gmail_token.json
+data/mail.yaml
+# personal data for the 履歴書
+data/rirekisho.yaml
+data/photo.jpg
+
+# personal job-search data and documents: stay on this PC, never on GitHub
+data/profile.yaml
+data/applications.yaml
+data/offers.yaml
+data/outreach.yaml
+data/wishes.yaml
+data/gaps.yaml
+data/documents.yaml
+master_profile_starter.yaml
+docs/*.pdf
+docs/*.docx

@@ -1,0 +1,17 @@
+# Anvil - Honest Professional Visibility Tool
+# Dependencies
+
+# Core
+anthropic>=0.18.0      # Claude API for generation
+pyyaml>=6.0            # Config files
+pydantic>=2.0          # Data validation (optional)
+
+# Document export
+python-docx>=0.8.11    # Word documents
+markdown>=3.5          # Markdown processing
+
+# Desktop UI (optional - CLI works without)
+# PyQt6>=6.6.0         # Uncomment for GUI
+
+# Utilities
+pyperclip>=1.8.0       # Clipboard

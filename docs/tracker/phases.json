@@ -1,0 +1,46 @@
+{
+  "_comment": "The phases and their gates. The prose home is the roadmap; this is the machine home. Exactly one phase is open at a time; the desk's dashboard shows its gate.",
+  "loop": "Find a realistic job in Japan or France, apply on the right channel, follow up, learn what gets replies.",
+  "cut_list": [
+    "Content/diary features (kept, not extended)",
+    "Automated scraping of boards that block bots"
+  ],
+  "phases": [
+    {
+      "id": "1",
+      "name": "Phase 1 — Track the search",
+      "gate": "Every application from the last week is in the pipeline, and the due list is checked daily.",
+      "status": "open",
+      "started": "2026-10-19",
+      "signed": "",
+      "trap": "Building search features before tracking what already works."
+    },
+    {
+      "id": "2",
+      "name": "Phase 2 — Better applications",
+      "gate": "French and Japan-format documents exported and sent on real applications; fit triage used before applying.",
+      "status": "not-open",
+      "started": "",
+      "signed": "",
+      "trap": "Polishing generators instead of sending applications."
+    },
+    {
+      "id": "3",
+      "name": "Phase 3 — Hygiene",
+      "gate": "Fresh install runs; README matches the tool.",
+      "status": "not-open",
+      "started": "",
+      "signed": "",
+      "trap": ""
+    },
+    {
+      "id": "C",
+      "name": "Carried — no phase",
+      "gate": "Not a phase. Items that outlive one, and references.",
+      "status": "rolling",
+      "started": "",
+      "signed": "",
+      "trap": ""
+    }
+  ]
+}

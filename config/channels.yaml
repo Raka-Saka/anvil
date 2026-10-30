@@ -1,0 +1,128 @@
+# Where applications happen. Anvil does not scrape these; it opens them and tracks what you send.
+# search: URL with {q} for keywords (optional). kind: board | public | agency | company | network
+channels:
+  # --- Japan ---
+  # In his order of use: Indeed, Recruit, GaijinPot, YOLO WORK, Hello Work
+  - id: indeed_jp
+    name: Indeed Japan
+    country: JP
+    kind: board
+    search: https://jp.indeed.com/jobs?q={q}&l=大阪
+  - id: recruit_jp
+    name: Recruit (リクナビNEXT / タウンワーク / Recruit Agent)
+    country: JP
+    kind: board
+    url: https://next.rikunabi.com/
+    note: Recruit's sites; タウンワーク for local and part-time, Recruit Agent for an advisor.
+  - id: gaijinpot
+    name: GaijinPot Jobs
+    country: JP
+    kind: board
+    search: https://jobs.gaijinpot.com/en/job?keywords={q}
+  - id: yolo_work
+    name: YOLO WORK
+    country: JP
+    kind: board
+    url: https://www.yolo-japan.com/en/recruit/
+    note: Jobs for foreign residents; many accept beginner Japanese.
+  - id: hellowork_jp
+    name: Hello Work (ハローワーク)
+    country: JP
+    kind: public
+    url: https://www.hellowork.mhlw.go.jp/
+    note: Public employment service. Often required for local roles; apply via referral slip at the office.
+  - id: daijob
+    name: Daijob
+    country: JP
+    kind: board
+    search: https://www.daijob.com/en/jobs/search_result?kw={q}
+    note: Bilingual roles.
+  - id: careercross
+    name: CareerCross
+    country: JP
+    kind: board
+    url: https://www.careercross.com/en
+  - id: linkedin_jp
+    name: LinkedIn (Japan)
+    country: JP
+    kind: network
+    search: https://www.linkedin.com/jobs/search/?keywords={q}&location=Japan
+  - id: robertwalters_jp
+    name: Robert Walters Japan
+    country: JP
+    kind: agency
+    url: https://www.robertwalters.co.jp/
+  - id: hays_jp
+    name: Hays Japan
+    country: JP
+    kind: agency
+    url: https://www.hays.co.jp/
+  - id: michaelpage_jp
+    name: Michael Page Japan
+    country: JP
+    kind: agency
+    url: https://www.michaelpage.co.jp/
+  - id: enworld
+    name: en world Japan
+    country: JP
+    kind: agency
+    url: https://www.enworld.com/
+  - id: jac
+    name: JAC Recruitment
+    country: JP
+    kind: agency
+    url: https://www.jac-recruitment.jp/
+
+  # --- France ---
+  - id: francetravail
+    name: France Travail
+    country: FR
+    kind: public
+    search: https://candidat.francetravail.fr/offres/recherche?motsCles={q}
+  - id: apec
+    name: APEC (cadres)
+    country: FR
+    kind: board
+    search: https://www.apec.fr/candidat/recherche-emploi.html/emploi?motsCles={q}
+  - id: wttj
+    name: Welcome to the Jungle
+    country: FR
+    kind: board
+    search: https://www.welcometothejungle.com/fr/jobs?query={q}
+  - id: indeed_fr
+    name: Indeed France
+    country: FR
+    kind: board
+    search: https://fr.indeed.com/emplois?q={q}
+  - id: hellowork_fr
+    name: HelloWork.com (French job site, not ハローワーク)
+    country: FR
+    kind: board
+    search: https://www.hellowork.com/fr-fr/emploi/recherche.html?k={q}
+    blocked_from_japan: true
+    note: Offers can be read from Japan, but applying is refused from a Japanese IP. Find the same job on the employer's or recruiter's own site.
+  - id: linkedin_fr
+    name: LinkedIn (France)
+    country: FR
+    kind: network
+    search: https://www.linkedin.com/jobs/search/?keywords={q}&location=France
+
+  # --- Anywhere ---
+  - id: company
+    name: Company careers page
+    country: ANY
+    kind: company
+    note: Applied directly on the employer's site. In France this produced the only results so far.
+  - id: referral
+    name: Referral / contact
+    country: ANY
+    kind: network
+  - id: remote_boards
+    name: Remote boards (Jobicy, Remotive)
+    country: ANY
+    kind: board
+    note: Searched inside Anvil's Job Finder.
+  - id: other
+    name: Other
+    country: ANY
+    kind: board
