@@ -492,6 +492,9 @@ class OffersView(ft.Column):
             [ft.TextButton(l.get("source") or "posting", icon=ft.Icons.OPEN_IN_NEW,
                            on_click=lambda e, u=l["url"]: webbrowser.open(u)) for l in o["links"][:5]],
             wrap=True, spacing=0)))
+        if o["links"] and o["links"][0].get("checked") is False:
+            parts.append(text("This site blocks Anvil, so the posting could not be checked. Open it first: "
+                              "it may have closed.", "caption", color=Colors.WARNING))
         if o.get("languages"):
             parts.append(text(f"Languages asked: {o['languages']}", "caption"))
         # SelectionArea: any text in the panel can be selected and copied (Ctrl+C)

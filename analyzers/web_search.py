@@ -8,6 +8,7 @@ legally take, and stores the rest in the offer library (core/offers.py).
 Takes a few minutes; call it off the UI thread.
 """
 
+import re
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date
 from typing import Callable, Optional
@@ -73,6 +74,8 @@ SCHEMA = {
 RULES = f"""You find real, current job postings on the web for the candidate below.
 Rules:
 - Only postings you saw in search results or opened, with the direct URL to the posting. Never guess a URL.
+- Only postings that still take applications. A page saying expired, closed, filled or no longer accepting
+  applications (募集終了, 掲載終了, 受付終了, offre expirée, n'est plus disponible) is not a posting: skip it.
 - Only postings from the last 7 days. `posted`: the date (YYYY-MM-DD) or age ("3 days ago"), or "unknown".
 - If the same job is on several sites, return it once; put the extra links in `other_urls`.
 - Right to work: {WORK_RIGHTS} Set `work_rights` and leave out jobs he cannot take.
@@ -144,8 +147,14 @@ def _cross_language_duplicates(found: list, lib) -> dict:
     return {p["new"]: p["known"] for p in pairs if 0 <= p["new"] < len(found) and p["known"] in ids}
 
 
+# words a job board shows on a posting that no longer takes applications
+_CLOSED = re.compile(r"(this job (has )?(expired|is no longer)|job (has )?expired|no longer (accepting|available)|"
+                     r"position has been filled|posting (has )?(closed|expired)|募集(は)?終了|掲載(は)?終了|"
+                     r"受付(は)?終了|offre (a )?expir|n'est plus disponible|plus d'actualité)", re.I)
+
+
 def _check(url: str) -> str:
-    """'ok', 'dead', or 'unchecked' (bot wall / timeout)."""
+    """'ok', 'dead' (gone or closed), or 'unchecked' (bot wall / timeout)."""
     if not requests or not url.startswith("http"):
         return "dead"
     try:
@@ -153,7 +162,9 @@ def _check(url: str) -> str:
                          headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120"})
         if r.status_code in (404, 410):
             return "dead"
-        return "ok" if r.status_code < 400 else "unchecked"
+        if r.status_code >= 400:
+            return "unchecked"
+        return "dead" if _CLOSED.search(r.text[:200000]) else "ok"
     except Exception:
         return "unchecked"
 
